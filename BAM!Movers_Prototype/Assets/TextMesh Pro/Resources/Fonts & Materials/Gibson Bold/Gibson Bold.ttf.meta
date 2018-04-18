@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 5317352e10e25c54bad6ef9084793207
+timeCreated: 1522295598
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gibson
+  fontNames:
+  - Gibson
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 117f5fd78e5acb949be0c49ea7a50e67, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
