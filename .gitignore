@@ -4,7 +4,7 @@
 *.bakert
 *.log
 *.meta
-
+*\metadata\*
 UnityLockFile
 UnityTempFile-*
 
