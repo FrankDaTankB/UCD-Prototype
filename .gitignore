@@ -1,0 +1,11 @@
+*.info
+*.bin
+*.backup
+*.bakert
+*.log
+*.meta
+
+UnityLockFile
+UnityTempFile-*
+
+
