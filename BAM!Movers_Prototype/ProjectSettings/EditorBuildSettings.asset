@@ -5,7 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Startup.unity
     guid: b60be86ac01ab2a4ca400273b8119173
   - enabled: 1
@@ -17,3 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SignUp.unity
     guid: 7e3408ebaf656a542a276325628cbd36
+  - enabled: 0
+    path: Assets/GemMine/geolocationLookup/Scenes/sampleScene.unity
+    guid: 95546f73cd47a734c89fc466d21aae81
+  - enabled: 1
+    path: Assets/Scenes/OrderVehicle.unity
+    guid: 90cd05661bcae144ebf9b02cbfa753cd
